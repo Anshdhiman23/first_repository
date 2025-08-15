@@ -1,0 +1,92 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    margin: 0 20px;
+    padding: 8px;
+}
+.header_nav{
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header_navlogo{
+    width: 120;
+    height: 100px;
+}
+.header_navitems{
+    display: flex;
+    gap: 20px;
+    font-size: 15pxpx;
+    align-items: center;
+}
+.header_navitem{
+    color: black;
+    text-decoration: none;
+}
+.hero{
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.main_text{
+    width: 600px;
+    font-size: 20px;
+}
+.main_image img{
+    width: 600px;
+    height: 300px;
+}
+.hero2{
+     display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+.courses{
+    width: 600px;
+    font-size: 20px;
+}
+.courses_image img{
+     width: 600px;
+    height: 300px;
+}
+.hero3{
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+.descript{
+    width: 1300px;
+    font-size: 20px;
+}
+.hero4{
+    display: flex;
+}
+.gallery img{
+    padding-right: 20px;
+    align-items: center;
+    width: 420px;
+    height: 300px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 16px;
+}
+.footer_text{
+    text-align: center;
+}
